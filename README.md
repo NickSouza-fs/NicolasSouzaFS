@@ -9,6 +9,8 @@
 
 - 📫 E-mail de contato **nicolassfs2005@gmail.com**
 
+- 🔗 Outras plataformas 
+
 <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://twitter.com/nicksouzafs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicksouzafs" height="30" width="40" /></a>
