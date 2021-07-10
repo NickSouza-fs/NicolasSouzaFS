@@ -9,7 +9,7 @@
 
 - 📫 E-mail de contato **nicolassfs2005@gmail.com**
 
-- 🔗 Outras plataformas 
+- 🔗 Outras plataformas **https://web.digitalinnovation.one/users/nicolassfs2005**
 
 <h3 align="left">Links:</h3>
 <p align="left">
