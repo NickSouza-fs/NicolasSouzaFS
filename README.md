@@ -1,5 +1,5 @@
-<h1 align="center">Hey, there ✌</h1>
-<h3 align="center">Olá, me chamo Nicolas Souza, um Entusiasta de T.I, e futuramente Desenvolvedor Back-end. Minha paixão com Programação tem relação em sonhar com ideias e torná-las realidade, com muito Foco e Dedicação.</h3>
+<h1 align="center">Hey there ✌</h1>
+<h3 align="center">Olá, me chamo Nicolas Souza, sou Entusiasta de T.I. Minha paixão com Programação tem relação em sonhar com ideias e torná-las realidade, com muito Foco e Dedicação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassouzafs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassouzafs" /> </p>
 
