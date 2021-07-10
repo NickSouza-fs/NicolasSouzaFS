@@ -1,5 +1,5 @@
 <h1 align="center">Hey there ✌</h1>
-<h3 align="center">Olá, me chamo Nicolas Souza, e sou um Entusiasta de T.I. Minha paixão com Programação tem relação com sonhar em ideias e torná-las realidade, com muito Foco e Dedicação, e Criatividade no processo.</h3>
+<h3 align="center">Olá, me chamo Nicolas Souza, e sou um Entusiasta de T.I. Minha paixão com Programação tem relação com sonhar em ideias e torná-las realidade, com muito Foco , Dedicação e Criatividade no processo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassouzafs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassouzafs" /> </p>
 
